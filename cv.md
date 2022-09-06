@@ -1,11 +1,11 @@
 ![Aliaksandr Petrakov](petr.jpg "icon")
 ***
-#Aliaksandr Petrakov
+# Aliaksandr Petrakov
 ---
-###(Alex-petr7)
+### (Alex-petr7)
 ***
 
-##Contacts
+## Contacts
 ---
 **Telegram:** @AlexLera *(Use this primary, please)*        
 **@Discord:** Alex Petr *(@alex-petr7)*     
@@ -14,7 +14,7 @@
 ---
 ***
 
-##About Myself:
+## About Myself:
 ---
 Despite the fact that I have a law degree, I worked as a system administrator in a small company. Where, over time, I began to perform various tasks not related to administration. The most interesting of them, in my opinion, were related to design (both WEB and printing).        
 
@@ -24,7 +24,7 @@ Since I work remotely, I can afford to learn something else creative in one way 
 
 ---
 
-##Skills and Proficiency:
+## Skills and Proficiency:
 ---
 1. **HTML5, CSS3**
 2. **JavaScript Basics**
@@ -32,7 +32,7 @@ Since I work remotely, I can afford to learn something else creative in one way 
 4. **Adobe Photoshop, Corel Draw, InDesign**
 ---
 
-##Code example:
+## Code example:
 ---
 KATA from CODEWARS: Write function bmi that calculates body mass index (bmi = weight / height2).
 
@@ -52,14 +52,14 @@ function bmi(weight, height) {
 ```
 ---
 
-##Courses:
+## Courses:
 ---
 JavaScript Manual on learn.javascript.ru (in progress)       
 RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 ***
 
 
-##Languages:        
+## Languages:        
 ---
 English - Intermediate      
 Russian - Native
