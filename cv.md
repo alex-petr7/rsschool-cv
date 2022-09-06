@@ -6,12 +6,12 @@
 ***
 
 ## Contacts
----
+
 **Telegram:** @AlexLera *(Use this primary, please)*        
 **@Discord:** Alex Petr *(@alex-petr7)*     
 **E-mail:** alexdeler@tut.by *(Slowest method)*     
 **Mobile:** `+375 44 777-77-77` *(NOT real one!)*       
----
+
 ***
 
 ## About Myself:
