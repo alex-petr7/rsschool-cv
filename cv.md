@@ -14,7 +14,7 @@
 
 ***
 
-## About Myself:
+## 💡 About Myself:
 ---
 Despite the fact that I have a law degree, I worked as a system administrator in a small company. Where, over time, I began to perform various tasks not related to administration. The most interesting of them, in my opinion, were related to design (both WEB and printing).        
 
@@ -24,7 +24,7 @@ Since I work remotely, I can afford to learn something else creative in one way 
 
 ---
 
-## Skills and Proficiency:
+## 🚀 Skills and Proficiency:
 ---
 1. **HTML5, CSS3**
 2. **JavaScript Basics**
